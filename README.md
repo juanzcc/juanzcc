@@ -5,7 +5,7 @@
 <h4>Atualmente estou cursando direito pela Uninove, por curtir e achar que todos devem conhecer seus direitos.</h4>
 <h4>Sou apaixonado por Jogos, Direito, Super-heróis, Animes e Programação.</h4><br/>
 
-### Onde me encontrar:
+### Onde me encontrar: 
 <div>
     <a href="https://www.instagram.com/juanzcc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/juan-zamarrenho-carvalho-correa-9723bb150/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/juanzcc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanzcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanzcc&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juanzcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanzcc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> <br/>
 
 ### Tecnologias que mais utilizo:
