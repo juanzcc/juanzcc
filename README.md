@@ -14,7 +14,7 @@
 
 ### Site - Portfólio:
 <div>
-    <a href="https://steamcommunity.com/profiles/76561198002819963" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
+    <a href="https://juanzcc.netlify.app" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
 </div>
 
 ## 
