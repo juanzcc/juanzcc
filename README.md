@@ -3,7 +3,7 @@
 
 <h4>Formado em Analise e Desenvolvimento de Sistemas pela FATEC de São Caetano do Sul.</h4> 
 <h4>Atualmente estou cursando direito pela Uninove, por curtir e achar que todos devem conhecer seus direitos.</h4>
-<h4>Sou apaixonado por Jogos, Direito, Super-heróis, Animes e Programação.</h4><br/>
+<h4>Sou apaixonado por Jogos, Xadrez, Direito, Super-heróis, Animes e Programação.</h4><br/>
 
 ### Onde me encontrar: 
 <div>
