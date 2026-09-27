@@ -2,8 +2,8 @@
 ## Tudo Bém!! Me chamo Juan 👍 <br/>
 
 <h4>Formado em Analise e Desenvolvimento de Sistemas pela FATEC de São Caetano do Sul.</h4> 
-<h4>Atualmente estou cursando direito pela Uninove, por curtir e achar que todos devem conhecer seus direitos.</h4>
-<h4>Sou apaixonado por Jogos, Xadrez, Direito, Super-heróis, Animes e Programação.</h4><br/>
+<h4></h4>
+<h4>S</h4><br/>
 
 ### Onde me encontrar: 
 <div>
@@ -11,10 +11,6 @@
     <a href="https://www.linkedin.com/in/juan-zamarrenho-carvalho-correa-9723bb150/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/profiles/76561198002819963" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-## 
 
 <div align="center">
   <a href="https://github.com/juanzcc">
